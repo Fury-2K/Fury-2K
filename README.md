@@ -65,10 +65,6 @@
 
 ---
 
-### ⭐️ From [Fury-2K](https://github.com/Fury-2K) ### 
-
----
-
 [Gmail]: manas.agrawal990@gmail.com
 [linkedin]: https://www.linkedin.com/in/manas-aggarwal-b66b1a173/
 [Spotify]: https://open.spotify.com/user/11153360645
