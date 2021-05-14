@@ -37,15 +37,15 @@
 ### Languages and Tools 🛠 
 
 ![Swift](http://img.shields.io/badge/-Swift-5B4638?style=flat-square&logo=swift&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![SwiftUI](http://img.shields.io/badge/-SwiftUI-3776AB?style=flat-square&logo=swiftui&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Xcode](http://img.shields.io/badge/-Xcode-007ACC?style=flat-square&logo=xcode&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
 ---
 
 <br/>
