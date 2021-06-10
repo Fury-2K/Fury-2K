@@ -57,7 +57,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fury-2K&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fury-2K&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fury-2K&theme=xcode&line_height=40&hide=css"/>
     </a>
 </div
 
@@ -67,4 +67,4 @@
 
 [Gmail]: manas.agrawal990@gmail.com
 [linkedin]: https://www.linkedin.com/in/manas-aggarwal-b66b1a173/
-[Spotify]: https://open.spotify.com/user/11153360645
+[Spotify]: https://open.spotify.com/user/febx6ik7jy1yy8sfxuxawhm6u
