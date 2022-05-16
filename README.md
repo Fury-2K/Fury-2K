@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a  iOS Developer. 
-- 👨‍💻 I’m currently working on sharpening up my SwiftUI skills before the WWDC21 hits the streets.
+- 👨‍💻 I’m currently working on sharpening up my SwiftUI skills.
 - 📚 I’m currently learning animations using Swift.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to draw manga characters and play video games.
