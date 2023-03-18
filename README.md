@@ -22,13 +22,13 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Fury-2K&repo=Fury-2K&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Contact me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=3&page=1&position=3&related_id=5968534&origin=search" />][Gmail]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="bilgehangecici.site" height="40px" width="50px" src="https://media.giphy.com/media/W3TdY216hOEWwUuJsY/giphy.gif" />][Gmail]
+&nbsp;
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" width="35px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>][linkedin]
+&nbsp;
+[<img align="left" alt="bilgehangecici | Spotify" height="38px" width="38px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE5Njc3NWMwOWQ3OTk5YWI3NjExZTM1ZDA3ODRiODVjNDBmYzQ5YyZjdD1z/cOfwtFobGCLJBU3DNn/giphy.gif" />][Spotify]
 
 <br />
 
